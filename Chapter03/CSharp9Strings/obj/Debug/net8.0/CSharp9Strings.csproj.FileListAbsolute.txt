@@ -1,0 +1,4 @@
+C:\Users\logo2\source\ProChsharp\Chapter03\CSharp9Strings\obj\Debug\net8.0\CSharp9Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logo2\source\ProChsharp\Chapter03\CSharp9Strings\obj\Debug\net8.0\CSharp9Strings.AssemblyInfoInputs.cache
+C:\Users\logo2\source\ProChsharp\Chapter03\CSharp9Strings\obj\Debug\net8.0\CSharp9Strings.AssemblyInfo.cs
+C:\Users\logo2\source\ProChsharp\Chapter03\CSharp9Strings\obj\Debug\net8.0\CSharp9Strings.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\logo2\source\ProChsharp\Chapter03\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logo2\source\ProChsharp\Chapter03\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.AssemblyInfoInputs.cache
+C:\Users\logo2\source\ProChsharp\Chapter03\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.AssemblyInfo.cs
+C:\Users\logo2\source\ProChsharp\Chapter03\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\logo2\source\ProChsharp\Chapter03\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.exe
+C:\Users\logo2\source\ProChsharp\Chapter03\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.deps.json
+C:\Users\logo2\source\ProChsharp\Chapter03\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.runtimeconfig.json
+C:\Users\logo2\source\ProChsharp\Chapter03\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.dll
+C:\Users\logo2\source\ProChsharp\Chapter03\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.pdb
+C:\Users\logo2\source\ProChsharp\Chapter03\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.dll
+C:\Users\logo2\source\ProChsharp\Chapter03\BasicDataTypes\obj\Debug\net8.0\refint\BasicDataTypes.dll
+C:\Users\logo2\source\ProChsharp\Chapter03\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.pdb
+C:\Users\logo2\source\ProChsharp\Chapter03\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.genruntimeconfig.cache
+C:\Users\logo2\source\ProChsharp\Chapter03\BasicDataTypes\obj\Debug\net8.0\ref\BasicDataTypes.dll

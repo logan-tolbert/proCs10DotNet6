@@ -1,0 +1,14 @@
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\obj\Debug\net8.0\FunWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\obj\Debug\net8.0\FunWithStrings.AssemblyInfoInputs.cache
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\obj\Debug\net8.0\FunWithStrings.AssemblyInfo.cs
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\obj\Debug\net8.0\FunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\bin\Debug\net8.0\FunWithStrings.exe
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\bin\Debug\net8.0\FunWithStrings.deps.json
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\bin\Debug\net8.0\FunWithStrings.runtimeconfig.json
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\bin\Debug\net8.0\FunWithStrings.dll
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\bin\Debug\net8.0\FunWithStrings.pdb
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\obj\Debug\net8.0\FunWithStrings.dll
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\obj\Debug\net8.0\refint\FunWithStrings.dll
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\obj\Debug\net8.0\FunWithStrings.pdb
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\obj\Debug\net8.0\FunWithStrings.genruntimeconfig.cache
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\obj\Debug\net8.0\ref\FunWithStrings.dll

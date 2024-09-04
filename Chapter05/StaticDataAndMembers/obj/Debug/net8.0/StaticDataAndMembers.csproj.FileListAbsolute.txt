@@ -1,0 +1,14 @@
+C:\Users\logo2\source\ProChsharp\Chapter05\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.exe
+C:\Users\logo2\source\ProChsharp\Chapter05\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.deps.json
+C:\Users\logo2\source\ProChsharp\Chapter05\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.runtimeconfig.json
+C:\Users\logo2\source\ProChsharp\Chapter05\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.dll
+C:\Users\logo2\source\ProChsharp\Chapter05\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.pdb
+C:\Users\logo2\source\ProChsharp\Chapter05\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logo2\source\ProChsharp\Chapter05\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.AssemblyInfoInputs.cache
+C:\Users\logo2\source\ProChsharp\Chapter05\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.AssemblyInfo.cs
+C:\Users\logo2\source\ProChsharp\Chapter05\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\logo2\source\ProChsharp\Chapter05\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.dll
+C:\Users\logo2\source\ProChsharp\Chapter05\StaticDataAndMembers\obj\Debug\net8.0\refint\StaticDataAndMembers.dll
+C:\Users\logo2\source\ProChsharp\Chapter05\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.pdb
+C:\Users\logo2\source\ProChsharp\Chapter05\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.genruntimeconfig.cache
+C:\Users\logo2\source\ProChsharp\Chapter05\StaticDataAndMembers\obj\Debug\net8.0\ref\StaticDataAndMembers.dll
