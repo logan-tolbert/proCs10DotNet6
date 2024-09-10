@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\logo2\\source\\ProChsharp\\SimpleConsoleApp\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\logo2\\source\\ProChsharp\\SimpleConsoleApp\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\logo2\\source\\ProChsharp\\SimpleConsoleApp\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\logo2\\source\\ProChsharp\\SimpleConsoleApp\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\logo2\\source\\ProChsharp\\SimpleConsoleApp\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\logo2\\source\\ProChsharp\\SimpleConsoleApp\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "c:\\Users\\logo2\\source\\ProChsharp\\SimpleConsoleApp\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\logo2\\source\\ProChsharp\\SimpleConsoleApp\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\logo2\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\logo2\\source\\ProChsharp\\SimpleConsoleApp\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\logo2\\source\\ProChsharp\\SimpleConsoleApp\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\logo2\\AppData\\Roaming\\NuGet\\NuGet.Config"

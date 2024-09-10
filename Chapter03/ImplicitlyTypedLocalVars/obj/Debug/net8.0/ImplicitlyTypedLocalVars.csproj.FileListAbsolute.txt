@@ -1,0 +1,15 @@
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\bin\Debug\net8.0\ImplicitlyTypedLocalVars.exe
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\bin\Debug\net8.0\ImplicitlyTypedLocalVars.deps.json
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\bin\Debug\net8.0\ImplicitlyTypedLocalVars.runtimeconfig.json
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\bin\Debug\net8.0\ImplicitlyTypedLocalVars.dll
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\bin\Debug\net8.0\ImplicitlyTypedLocalVars.pdb
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\obj\Debug\net8.0\ImplicitlyTypedLocalVars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\obj\Debug\net8.0\ImplicitlyTypedLocalVars.AssemblyInfoInputs.cache
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\obj\Debug\net8.0\ImplicitlyTypedLocalVars.AssemblyInfo.cs
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\obj\Debug\net8.0\ImplicitlyTypedLocalVars.csproj.CoreCompileInputs.cache
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\obj\Debug\net8.0\ImplicitlyTypedLocalVars.sourcelink.json
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\obj\Debug\net8.0\ImplicitlyTypedLocalVars.dll
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\obj\Debug\net8.0\refint\ImplicitlyTypedLocalVars.dll
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\obj\Debug\net8.0\ImplicitlyTypedLocalVars.pdb
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\obj\Debug\net8.0\ImplicitlyTypedLocalVars.genruntimeconfig.cache
+C:\Users\logo2\source\ProChsharp\Chapter03\ImplicitlyTypedLocalVars\obj\Debug\net8.0\ref\ImplicitlyTypedLocalVars.dll

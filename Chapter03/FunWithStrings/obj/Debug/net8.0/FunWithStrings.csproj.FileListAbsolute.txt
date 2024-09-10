@@ -12,3 +12,4 @@ C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\obj\Debug\net8.0\refin
 C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\obj\Debug\net8.0\FunWithStrings.pdb
 C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\obj\Debug\net8.0\FunWithStrings.genruntimeconfig.cache
 C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\obj\Debug\net8.0\ref\FunWithStrings.dll
+C:\Users\logo2\source\ProChsharp\Chapter03\FunWithStrings\obj\Debug\net8.0\FunWithStrings.sourcelink.json

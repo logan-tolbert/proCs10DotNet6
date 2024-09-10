@@ -1,0 +1,15 @@
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\bin\Debug\net8.0\FunWithArrays.exe
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\bin\Debug\net8.0\FunWithArrays.deps.json
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\bin\Debug\net8.0\FunWithArrays.runtimeconfig.json
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\bin\Debug\net8.0\FunWithArrays.dll
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\bin\Debug\net8.0\FunWithArrays.pdb
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\obj\Debug\net8.0\FunWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\obj\Debug\net8.0\FunWithArrays.AssemblyInfoInputs.cache
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\obj\Debug\net8.0\FunWithArrays.AssemblyInfo.cs
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\obj\Debug\net8.0\FunWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\obj\Debug\net8.0\FunWithArrays.sourcelink.json
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\obj\Debug\net8.0\FunWithArrays.dll
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\obj\Debug\net8.0\refint\FunWithArrays.dll
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\obj\Debug\net8.0\FunWithArrays.pdb
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\obj\Debug\net8.0\FunWithArrays.genruntimeconfig.cache
+C:\Users\logo2\source\ProChsharp\Chapter04\FunWithArrays\obj\Debug\net8.0\ref\FunWithArrays.dll

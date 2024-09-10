@@ -1,0 +1,15 @@
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\bin\Debug\net8.0\TypeConversions.exe
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\bin\Debug\net8.0\TypeConversions.deps.json
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\bin\Debug\net8.0\TypeConversions.runtimeconfig.json
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\bin\Debug\net8.0\TypeConversions.dll
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\bin\Debug\net8.0\TypeConversions.pdb
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\obj\Debug\net8.0\TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\obj\Debug\net8.0\TypeConversions.AssemblyInfoInputs.cache
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\obj\Debug\net8.0\TypeConversions.AssemblyInfo.cs
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\obj\Debug\net8.0\TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\obj\Debug\net8.0\TypeConversions.sourcelink.json
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\obj\Debug\net8.0\TypeConversions.dll
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\obj\Debug\net8.0\refint\TypeConversions.dll
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\obj\Debug\net8.0\TypeConversions.pdb
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\obj\Debug\net8.0\TypeConversions.genruntimeconfig.cache
+C:\Users\logo2\source\ProChsharp\Chapter03\TypeConversions\obj\Debug\net8.0\ref\TypeConversions.dll

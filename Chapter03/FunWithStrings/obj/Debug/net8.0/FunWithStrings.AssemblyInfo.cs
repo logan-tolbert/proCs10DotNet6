@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunWithStrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7618617ba6845a16aeafcd559f080e3d42d2a6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunWithStrings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunWithStrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
